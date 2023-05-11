@@ -1,0 +1,19 @@
+.cabecalho{
+    position:absolute
+    width: 1440px;
+    height:190px;
+    left: 0px;
+    top: 0px;
+
+    background: #D4E1e4;
+}
+.imgcabecalho{
+    position:absolute;
+    width: 182px;
+    height: 188px;
+    left: 76px;
+    top: 2px;
+
+    background: url(logosite);
+    box-shadow: inset 0px 4px 4px rgba(0, 0,0, 0.25);
+]
